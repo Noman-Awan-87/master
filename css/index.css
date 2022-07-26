@@ -1,0 +1,134 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.width{
+    width: 100%;
+}
+a {
+    text-decoration: none;
+}
+a :hover{
+    color: gold;
+    text-decoration: none;
+    border: 2px solid rgb(165, 163, 163);
+}
+a :active {
+    border: 1px solid white;
+}
+a :link {
+    color: black;
+    text-decoration: none;
+}
+.a{
+    text-decoration: none;
+}
+.clr-white{
+    color: white;
+}
+.clr-blck{
+    color: black;
+}
+.clr-gold{
+    color: gold;
+}
+.clr-red{
+    color: red;
+    text-decoration: underline 1px solid red;
+}
+.clr-gold{
+    color: gold;
+}
+.clr-prpl{
+    color: rgb(37, 4, 129);
+}
+.bckg-black{
+    background-color: black;
+}
+.bckg-white{
+    background-color: white;
+}
+.bckg-gry{
+    background-color: rgb(165, 163, 163);
+}
+.bckg-prpl{
+    background-color: rgb(37, 4, 129);
+}
+.header-img{
+    width: 10%;
+    float: left;
+    padding-top: 1%;
+}
+.header-p{
+    width: 90%;
+    float: left;
+    padding-top: 1%;
+    text-align: left;
+}
+.bord-blck{
+    border: 1px solid black;
+}
+.bord-gry{
+    border: 1px solid rgb(139, 139, 139);
+}
+.bord-radus{
+    border-radius: 0% 0% 400px 0%; 
+}
+#otp{
+    width: 50%;
+    float: left;
+    padding-top: 1%;
+}
+.h2-logo-name{
+    padding-top: 0.4%;
+    text-align: left;
+    font-size: xx-large;
+}
+.h2-img{
+    width: 20%;
+    padding-top: 3%;
+    float: left;
+}
+.padng-lft{
+    padding-left: 8%;
+}
+.mrgn-lft{
+    margin-left: 15%;
+}
+.mrgn-top{
+    margin-top: 1%;
+}
+.txt-algn{
+    text-align: center;
+}
+.fnt-sze-xx{
+    font-size: xx-large;
+}
+.fnt-sze-x{
+    font-size: x-large;
+}
+.fnt-sze-lrg{
+    font-size: large;
+}
+.fnt-sze-mdm{
+    font-size: medium;
+}
+.fnt-sze-xxsmal{
+    font-size: xx-small;
+}
+.mrgn-top-hght{
+    margin-top: 3%;
+    height: 47%;
+}
+.flt-lft{
+    float: left;
+    margin-left: 1%;
+}
+.mrgn-top-lft{
+    margin-top: 1%;
+    margin-left: 3%;
+}
+.flt-lft-mrgn-lft{
+    float: left;
+    margin-left: 5%;
+}
